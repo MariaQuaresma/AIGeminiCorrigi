@@ -1,0 +1,8 @@
+# Arquivos com chaves
+.env
+
+# Dependências
+node_modules/
+
+# Build
+dist/
